@@ -1,16 +1,16 @@
 # Sheridan-Course-App-prototype
 Figma Prototype for Sheridan Course App
 
-<h1> Sheridan Course App </h1>
+<h1>Sheridan Course App </h1>
 This application is design considering younger adults between the age of 18 to 24 as their main audience.
   
-<h1> desirable functionlities in these type of functionalities that is not been implemented yet </h1>
+<h1>Desirable functionlities that is not been implemented yet </h1>
 1) Interactive map that shows the current location of the student to better navigate them around the campus 
 2) Chat functionality with student in their course
 3) List of offered professor for a particular course 
 
 
-<h1> Sheridan Course App prototype images </h1>
+<h1>Sheridan Course App prototype images </h1>
 
 <img width="199" alt="image" src="https://user-images.githubusercontent.com/82590756/220012426-89987ea5-32e4-4e59-99f3-058f5f045d1c.png">
 
