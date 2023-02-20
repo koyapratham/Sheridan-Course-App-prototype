@@ -2,7 +2,7 @@
 Figma Prototype for Sheridan Course App
 
 <h1> Sheridan Course App </h1>
- Design of the application is done considering students that ages between 18-25
+This application is design considering younger adults between the age of 18 to 24 as their main audience.
   
 <h1> desirable functionlities in these type of functionalities that is not been implemented yet </h1>
 1) Interactive map that shows the current location of the student to better navigate them around the campus 
